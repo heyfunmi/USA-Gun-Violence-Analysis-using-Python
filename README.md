@@ -1,13 +1,11 @@
-Hey there,
-I'm 'funmi, I'm a data analyst, super proficient with the use of python, SQL, power BI and Microsoft Excel for data analysis.
-I'm also a technical writer, documenting my data science journey and writing articles to augment the data community.
+This dataset contains records of gun violence incidents in the United States of America between December 28,2018 to June 20,2022.
+  Analysis was done to draw insights and to find answer to questions such as:
+- States and cities with most gun violence incidents.
+-Total gun violence incidents between Dec 28 2018 to June 20, 2022.
+-Total deaths
+-Total injuries 
+-States and cities with the least gun violence incidents.
+-Venues with the most gun violence incidents.
 
-Here is a link to my portfolio:
-https://dev.to/heyfunmi
 
-Here is a link to my blog:
-
-https://heyfunmi.hashnode.dev/
-
-Feel free to contact me via
-heyfunmi@gmail.com 
+For contributions and suggestions, please mail: heyfunmi@gmail.com
